@@ -5,7 +5,7 @@ Version:	0.1.0
 Release:	0.1
 License:	GPL
 Group:		Applications/Networking
-Source0:	http://www.mobilnews.cz/honza/dnload/wewimo//%{name}-%{version}.tar.gz
+Source0:	http://www.mobilnews.cz/honza/dnload/wewimo/%{name}-%{version}.tar.gz
 # Source0-md5:	42f78859932d433b61c9c0d96c9a45d3
 URL:		http://www.mobilnews.cz/honza/en_prog_linux_wewimo.php
 PreReq:		webserver
@@ -20,7 +20,7 @@ cards (ZCom XI-626).
 %description -l pl
 WeWiMo (Web WiFi Monitor) jest to ma³y skrypt do monitorowania
 komputerów po³±czonych do access pointa dzia³aj±cego pod kontrol±
-Linuksa i u¿ywaj±cego kart WiFi (ZCom XI-626) .
+Linuksa i u¿ywaj±cego kart WiFi (ZCom XI-626).
 
 %prep
 %setup -q
