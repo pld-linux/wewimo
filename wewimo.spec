@@ -6,7 +6,7 @@ Release:	0.1
 License:	GPL
 Group:		Applications/Networking
 Source0:	http://www.mobilnews.cz/honza/dnload/wewimo//%{name}-%{version}.tar.gz
-# Source0-md5:	
+# Source0-md5:	42f78859932d433b61c9c0d96c9a45d3
 URL:		http://www.mobilnews.cz/honza/en_prog_linux_wewimo.php
 PreReq:		webserver
 BuildArch:	noarch
