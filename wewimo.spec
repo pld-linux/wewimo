@@ -1,4 +1,4 @@
-Summary:	WeWiMo is a small script for monitoring computers connected to access point. 
+Summary:	WeWiMo is a small script for monitoring computers connected to access point.
 Summary(pl):	WeWiMo jest to ma³y skrypt do monitorowania komputerów po³±czonych do access pointa.
 Name:		wewimo
 Version:	0.1.0
@@ -13,14 +13,14 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-WeWiMo (Web WiFi Monitor) is a small script for monitoring computers 
-connected to access point running Linux and hostap driver for WiFi cards 
-(ZCom XI-626).
+WeWiMo (Web WiFi Monitor) is a small script for monitoring computers
+connected to access point running Linux and hostap driver for WiFi
+cards (ZCom XI-626).
 
 %description -l pl
-WeWiMo (Web WiFi Monitor) jest to ma³y skrypt do monitorowania komputerów
-po³±czonych do access pointa dzia³aj±cego pod kontrol± Linuksa i u¿ywaj±cego
-kart WiFi (ZCom XI-626) .
+WeWiMo (Web WiFi Monitor) jest to ma³y skrypt do monitorowania
+komputerów po³±czonych do access pointa dzia³aj±cego pod kontrol±
+Linuksa i u¿ywaj±cego kart WiFi (ZCom XI-626) .
 
 %prep
 %setup -q
