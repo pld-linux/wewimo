@@ -1,9 +1,9 @@
-Summary:	WeWiMo is a small script for monitoring computers connected to access point.
-Summary(pl):	WeWiMo jest to ma³y skrypt do monitorowania komputerów po³±czonych do access pointa.
+Summary:	WeWiMo - a small script for monitoring computers connected to access point
+Summary(pl):	WeWiMo - ma³y skrypt do monitorowania komputerów pod³±czonych do access pointa
 Name:		wewimo
 Version:	0.1.0
 Release:	0.1
-License:	GPL
+License:	free (see LICENSE)
 Group:		Applications/Networking
 Source0:	http://www.mobilnews.cz/honza/dnload/wewimo/%{name}-%{version}.tar.gz
 # Source0-md5:	42f78859932d433b61c9c0d96c9a45d3
